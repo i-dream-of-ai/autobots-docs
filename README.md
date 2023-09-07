@@ -1,6 +1,6 @@
-# Syntax
+# Autobots AI Documentation
 
-Syntax is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+Documentation for the Autobots AI web application [https://autobots-ai.com](https://autobots-ai.com).
 
 ## Getting started
 
@@ -28,9 +28,9 @@ This template includes a global search that's powered by the [FlexSearch](https:
 
 This feature requires no configuration, and works out of the box by automatically scanning your documentation pages to build its index. You can adjust the search parameters by editing the `/src/markdoc/search.mjs` file.
 
-## License
+<!-- ## License
 
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
+This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license). -->
 
 ## Learn more
 
