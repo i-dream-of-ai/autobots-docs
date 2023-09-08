@@ -2,11 +2,11 @@
 title: Getting started
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Learn how to get Autobots AI set up in your project in under thirty minutes. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your chatbot and installing in on your site." /%}
 
 {% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
 
