@@ -19,6 +19,13 @@ export const navigation = [
     ],
   },
   {
+    title: 'Integrations',
+    links: [
+      { title: 'Go High Level', href: '/go-high-level' },
+      { title: 'Zapier', href: '/zapier' },
+    ],
+  },
+  {
     title: 'Training Your Bot',
     links: [
       { title: 'Inline Training', href: '/inline-training' },

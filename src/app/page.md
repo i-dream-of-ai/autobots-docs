@@ -8,9 +8,9 @@ Learn how to get Autobots AI set up in your project in under thirty minutes. {% 
 
 {% quick-link title="Installation" icon="installation" href="/installation" description="Step-by-step guides to setting up your chatbot and installing in on your site." /%}
 
-{% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Features" icon="presets" href="/features" description="Learn how the internals work and contribute." /%}
 
-{% quick-link title="Plugins" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Integrations" icon="plugins" href="/integrations" description="Enhance your chatbot's capabilities with integrations like Go High Level and Zapier, unlocking advanced features and seamless workflows." /%}
 
 {% quick-link title="API reference" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
 
