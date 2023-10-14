@@ -6,7 +6,7 @@ Learn how to get Autobots AI set up in your project in under thirty minutes. {% 
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your chatbot and installing in on your site." /%}
+{% quick-link title="Installation" icon="installation" href="/installation" description="Step-by-step guides to setting up your chatbot and installing in on your site." /%}
 
 {% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
 
@@ -16,7 +16,7 @@ Learn how to get Autobots AI set up in your project in under thirty minutes. {% 
 
 {% /quick-links %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste.
+Autobots AI is a leading provider of advanced chatbot solutions designed to enhance user engagement, drive sales, and streamline customer service. Our chatbots are powered by cutting-edge AI technology, ensuring that every interaction feels genuine and tailored to the user's needs.
 
 ---
 
@@ -24,89 +24,54 @@ Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit per
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Installing dependencies
+### Registration and Subscription
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+- **Choosing a Plan**: Autobots AI offers multiple subscription levels tailored to fit various needs. Each level provides different usage limits, ensuring that businesses of all sizes find a suitable option.
+  - To select a plan, visit our [Pricing Page](https://autobots-ai.com/pricing).
+  - Review the features and benefits of each plan to determine the best fit for your needs.
 
-```shell
-npm install @tailwindlabs/cache-advance
-```
+- **Registration**:
+  - Once you've chosen a plan, click on the 'Register' button.
+  - Fill in the required details to create your Autobots AI account.
+  - Follow the on-screen instructions to complete the registration process.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+### Installation and Setup
 
-{% callout type="warning" title="Oh no! Something bad happened!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-{% /callout %}
+- **Creating Your Chatbot**:
+  - After registration, log in to your Autobots AI dashboard.
+  - Navigate to the 'Create Chatbot' section.
+  - Follow the guided setup to customize your chatbot's appearance, persona, and functionalities.
 
-### Configuring the library
+- **Embedding the Chatbot**:
+  - Autobots AI chatbots can be seamlessly integrated into various platforms, including WordPress, Wix, ClickFunnels, Go High Level, and more.
+  - Go to the 'Add Bot' page on your dashboard.
+  - Copy the provided chatbot script.
+  - Paste the script into the desired location on your website or platform. Detailed embedding instructions for specific platforms can be found in our [Installation Guides](#) (replace with the actual link).
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-```js
-// cache-advance.config.js
-export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
-  },
-}
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="You should know!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-{% /callout %}
+By following these steps, you'll have your Autobots AI chatbot up and running, ready to engage with your website visitors!
 
 ---
 
-## Basic usage
+## Getting Help
 
-Praesentium laudantium magni. Consequatur reiciendis aliquid nihil iusto ut in et. Quisquam ut et aliquid occaecati. Culpa veniam aut et voluptates amet perspiciatis. Qui exercitationem in qui. Vel qui dignissimos sit quae distinctio.
+Engaging with a new platform can sometimes lead to questions or challenges. At Autobots AI, we're committed to ensuring that every user has access to the resources and support they need. Below are the avenues through which you can seek assistance:
 
-### Your first cache
+### Submit an Issue
 
-Minima vel non iste debitis. Consequatur repudiandae et quod accusamus sit molestias consequatur aperiam. Et sequi ipsa eum voluptatibus ipsam. Et quisquam ut.
+If you encounter a bug, glitch, or any other issue while using Autobots AI, please let us know so we can address it promptly.
 
-Qui quae esse aspernatur fugit possimus. Quam sed molestiae temporibus. Eum perferendis dignissimos provident ea et. Et repudiandae quasi accusamus consequatur dolore nobis. Quia reiciendis necessitatibus a blanditiis iste quia. Ut quis et amet praesentium sapiente.
+- **Reporting a Problem**:
+  - Navigate to the [Support](https://autobots-ai.com/support) page on our platform.
+  - Provide a detailed description of the issue, including any error messages you might have received.
+  - Click 'Submit', and our technical team will review and address your concern as soon as possible.
 
-Atque eos laudantium. Optio odit aspernatur consequuntur corporis soluta quidem sunt aut doloribus. Laudantium assumenda commodi.
+### Join the Community
 
-### Clearing the cache
+Autobots AI boasts a vibrant community of users, developers, and enthusiasts who are always eager to help and share their experiences.
 
-Vel aut velit sit dolor aut suscipit at veritatis voluptas. Laudantium tempore praesentium. Qui ut voluptatem.
+- **Engaging with Peers**:
+  - Join our [Facebook Group](https://facebook.com/autobots-ai) (replace with the actual link) to participate in discussions, share insights, and learn from fellow users.
+  - Explore topics, ask questions, or provide solutions to others in need.
+  - Stay updated with the latest news, updates, and best practices shared by the community.
 
-Ea est autem fugiat velit esse a alias earum. Dolore non amet soluta eos libero est. Consequatur qui aliquam qui odit eligendi ut impedit illo dignissimos.
-
-Ut dolore qui aut nam. Natus temporibus nisi voluptatum labore est ex error vel officia. Vero repellendus ut. Suscipit voluptate et placeat. Eius quo corporis ab et consequatur quisquam. Nihil officia facere dolorem occaecati alias deleniti deleniti in.
-
-### Adding middleware
-
-Officia nobis tempora maiores id iusto magni reprehenderit velit. Quae dolores inventore molestiae perspiciatis aut. Quis sequi officia quasi rem officiis officiis. Nesciunt ut cupiditate. Sunt aliquid explicabo enim ipsa eum recusandae. Vitae sunt eligendi et non beatae minima aut.
-
-Harum perferendis aut qui quibusdam tempore laboriosam voluptatum qui sed. Amet error amet totam exercitationem aut corporis accusantium dolorum. Perspiciatis aut animi et. Sed unde error ut aut rerum.
-
-Ut quo libero aperiam mollitia est repudiandae quaerat corrupti explicabo. Voluptas accusantium sed et doloribus voluptatem fugiat a mollitia. Numquam est magnam dolorem asperiores fugiat. Soluta et fuga amet alias temporibus quasi velit. Laudantium voluptatum perspiciatis doloribus quasi facere. Eveniet deleniti veniam et quia veritatis minus veniam perspiciatis.
-
----
-
-## Getting help
-
-Consequuntur et aut quisquam et qui consequatur eligendi. Necessitatibus dolorem sit. Excepturi cumque quibusdam soluta ullam rerum voluptatibus. Porro illo sequi consequatur nisi numquam nisi autem. Ut necessitatibus aut. Veniam ipsa voluptatem sed.
-
-### Submit an issue
-
-Inventore et aut minus ut voluptatem nihil commodi doloribus consequatur. Facilis perferendis nihil sit aut aspernatur iure ut dolores et. Aspernatur odit dignissimos. Aut qui est sint sint.
-
-Facere aliquam qui. Dolorem officia ipsam adipisci qui molestiae. Error voluptatem reprehenderit ex.
-
-Consequatur enim quia maiores aperiam et ipsum dicta. Quam ut sit facere sit quae. Eligendi veritatis aut ut veritatis iste ut adipisci illo.
-
-### Join the community
-
-Praesentium facilis iste aliquid quo quia a excepturi. Fuga reprehenderit illo sequi voluptatem voluptatem omnis. Id quia consequatur rerum consectetur eligendi et omnis. Voluptates iusto labore possimus provident praesentium id vel harum quisquam. Voluptatem provident corrupti.
-
-Eum et ut. Qui facilis est ipsa. Non facere quia sequi commodi autem. Dicta autem sit sequi omnis impedit. Eligendi amet dolorum magnam repudiandae in a.
-
-Molestiae iusto ut exercitationem dolorem unde iusto tempora atque nihil. Voluptatem velit facere laboriosam nobis ea. Consequatur rerum velit ipsum ipsam. Et qui saepe consequatur minima laborum tempore voluptatum et. Quia eveniet eaque sequi consequatur nihil eos.
+Remember, you're not alone on this journey. The Autobots AI community is here to support and guide you every step of the way!

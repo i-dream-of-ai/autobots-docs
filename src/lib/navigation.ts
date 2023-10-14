@@ -3,54 +3,33 @@ export const navigation = [
     title: 'Introduction',
     links: [
       { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Features', href: '/features' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Installation Guides',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
-      {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
-      },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Install Guide', href: '/installation' },
+      { title: 'Big Commerce Sites', href: '/installation/big-commerce' },
+      { title: 'Shopify Sites', href: '/installation/shopify' },
+      { title: 'SquareSpace Sites', href: '/installation/squarespace' },
+      { title: 'Weebly Sites', href: '/installation/weebly' },
+      { title: 'Wix Sites', href: '/installation/wix' },
+      { title: 'Wordpress Sites', href: '/installation/wordpress' },
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Training Your Bot',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
-      {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
-      },
+      { title: 'Inline Training', href: '/inline-training' },
+      { title: 'Vector Training', href: '/vector-training' },
     ],
   },
   {
-    title: 'API reference',
+    title: 'Manage Your Data',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+      { title: 'Data Preparation', href: '/data-preparation' },
     ],
   },
-  {
-    title: 'Contributing',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
-    ],
-  },
+  
 ]
