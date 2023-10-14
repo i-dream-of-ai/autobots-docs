@@ -22,7 +22,7 @@ Autobots AI is a leading provider of advanced chatbot solutions designed to enha
 
 ## Quick start
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Welcome aboard! This guide is designed to swiftly navigate you through the essentials of setting up and optimizing your chatbot experience. Whether you're a seasoned tech guru or just dipping your toes into the world of AI, we've got you covered. From choosing the right subscription plan to embedding your chatbot seamlessly on your platform, follow these streamlined steps to elevate your user engagement and transform your digital interactions.
 
 ### Registration and Subscription
 
