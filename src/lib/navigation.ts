@@ -7,6 +7,27 @@ export const navigation = [
     ],
   },
   {
+    title: 'Manage Your Data',
+    links: [
+      { title: 'Data Preparation', href: '/data-preparation' },
+    ],
+  },
+  {
+    title: 'Setting Up Your Bot',
+    links: [
+      { title: 'Create Chatbot', href: '/setup/create-chatbot' },
+      { title: 'Inline Training', href: '/setup/inline-training' },
+      { title: 'Vector Training', href: '/setup/vector-training' },
+    ],
+  },
+  {
+    title: 'Integrations',
+    links: [
+      { title: 'Go High Level', href: '/go-high-level' },
+      { title: 'Zapier', href: '/zapier' },
+    ],
+  },
+  {
     title: 'Installation Guides',
     links: [
       { title: 'Install Guide', href: '/installation' },
@@ -18,25 +39,4 @@ export const navigation = [
       { title: 'Wordpress Sites', href: '/installation/wordpress' },
     ],
   },
-  {
-    title: 'Integrations',
-    links: [
-      { title: 'Go High Level', href: '/go-high-level' },
-      { title: 'Zapier', href: '/zapier' },
-    ],
-  },
-  {
-    title: 'Training Your Bot',
-    links: [
-      { title: 'Inline Training', href: '/inline-training' },
-      { title: 'Vector Training', href: '/vector-training' },
-    ],
-  },
-  {
-    title: 'Manage Your Data',
-    links: [
-      { title: 'Data Preparation', href: '/data-preparation' },
-    ],
-  },
-  
 ]

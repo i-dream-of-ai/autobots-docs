@@ -8,11 +8,11 @@ Learn how to get Autobots AI set up in your project in under thirty minutes. {% 
 
 {% quick-link title="Installation" icon="installation" href="/installation" description="Step-by-step guides to setting up your chatbot and installing in on your site." /%}
 
-{% quick-link title="Features" icon="presets" href="/features" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Features" icon="presets" href="/features" description="Learn about our features and integrations." /%}
 
 {% quick-link title="Integrations" icon="plugins" href="/integrations" description="Enhance your chatbot's capabilities with integrations like Go High Level and Zapier, unlocking advanced features and seamless workflows." /%}
 
-{% quick-link title="API reference" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="API reference (coming soon)" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
 
 {% /quick-links %}
 
@@ -70,7 +70,7 @@ If you encounter a bug, glitch, or any other issue while using Autobots AI, plea
 Autobots AI boasts a vibrant community of users, developers, and enthusiasts who are always eager to help and share their experiences.
 
 - **Engaging with Peers**:
-  - Join our [Facebook Group](https://facebook.com/autobots-ai) (replace with the actual link) to participate in discussions, share insights, and learn from fellow users.
+  - Join our [Facebook Group](https://www.facebook.com/groups/evolutionunleashedai) to participate in discussions, share insights, and learn from fellow users.
   - Explore topics, ask questions, or provide solutions to others in need.
   - Stay updated with the latest news, updates, and best practices shared by the community.
 
