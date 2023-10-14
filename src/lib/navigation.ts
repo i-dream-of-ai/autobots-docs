@@ -23,8 +23,8 @@ export const navigation = [
   {
     title: 'Integrations',
     links: [
-      { title: 'Go High Level', href: '/go-high-level' },
-      { title: 'Zapier', href: '/zapier' },
+      { title: 'Go High Level', href: '/integrations/go-high-level' },
+      { title: 'Zapier', href: '/integrations/zapier' },
     ],
   },
   {

@@ -10,9 +10,9 @@ Learn how to get Autobots AI set up in your project in under thirty minutes. {% 
 
 {% quick-link title="Features" icon="presets" href="/features" description="Learn about our features and integrations." /%}
 
-{% quick-link title="Integrations" icon="plugins" href="/integrations" description="Enhance your chatbot's capabilities with integrations like Go High Level and Zapier, unlocking advanced features and seamless workflows." /%}
+<!-- {% quick-link title="Integrations" icon="plugins" href="/integrations" description="Enhance your chatbot's capabilities with integrations like Go High Level and Zapier, unlocking advanced features and seamless workflows." /%}
 
-{% quick-link title="API reference (coming soon)" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="API reference (coming soon)" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%} -->
 
 {% /quick-links %}
 
@@ -38,14 +38,16 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 ### Installation and Setup
 
 - **Creating Your Chatbot**:
-  - After registration, log in to your Autobots AI dashboard.
-  - Navigate to the 'Create Chatbot' section.
-  - Follow the guided setup to customize your chatbot's appearance, persona, and functionalities.
+  - After [registration](https://autobots-ai.com/register), log in to your Autobots AI dashboard.
+  - Navigate to the [Add Chatbot Page](https://www.autobots-ai.com/chatbots/add).
+  - Read the [Inline Training Page](/setup/inline-training) to learn about the importance of quality inline data training.
+  - Read the [Vector Training Page](/setup/vector-training) to learn how to extend your chatbots memory with vector data.
+  - Follow the [Data Preparation Guide](/data-preparation) to make sure that your data is complete and prepared correctly.
 
 - **Embedding the Chatbot**:
-  - Autobots AI chatbots can be seamlessly integrated into various platforms, including WordPress, Wix, ClickFunnels, Go High Level, and more.
-  - Go to the 'Add Bot' page on your dashboard.
-  - Copy the provided chatbot script.
+  - Autobots AI chatbots can be seamlessly integrated into various platforms, including WordPress, Wix, ClickFunnels, Go High Level, Weebly, Squarespace, Big Commerce and more.
+  - On the Dashboard, click the Edit Bot button on the chatbot you want to embed.
+  - Copy the provided chatbot script under the chatbot form.
   - Paste the script into the desired location on your website or platform. Detailed embedding instructions for specific platforms can be found in our [Installation Guides](#) (replace with the actual link).
 
 By following these steps, you'll have your Autobots AI chatbot up and running, ready to engage with your website visitors!

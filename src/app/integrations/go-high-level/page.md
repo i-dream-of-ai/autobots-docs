@@ -6,9 +6,10 @@ nextjs:
     description: How to use your Autobots Ai chatbot with GHL.
 ---
 
-Coming Soon!
+
 
 ---
 
 ## Connect Your Chatbot to a GHL Workflow
 
+### Coming Soon!

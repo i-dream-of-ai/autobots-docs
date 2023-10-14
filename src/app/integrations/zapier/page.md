@@ -6,9 +6,8 @@ nextjs:
     description: How to connect your Autobots Ai chatbot to zapier actions.
 ---
 
-Coming Soon!
-
 ---
 
 ## Connect Your Chatbot to a Zapier
 
+### Coming Soon!
